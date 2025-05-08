@@ -22,10 +22,11 @@ A React application for creating and viewing users using a provided API.
 
 ## Installation
 
-1. Clone this repository
-2. Install dependencies:
-   ```
+1. Clone this repository or download the files from GitHub:
+2. After that, Install dependencies by using the following command:
    npm install
-   ```
+   
+3. Then run the project by using following command:
+   npm run dev
 
 This template provides a minimal setup to get React working in Vite
